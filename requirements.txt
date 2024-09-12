@@ -3,3 +3,4 @@ keyboard
 pyperclip
 groq
 pyaudio
+pyautogui
